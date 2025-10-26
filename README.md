@@ -22,7 +22,7 @@ Right click and tick whether you want the program to stay on top or not. Also, t
 ==============================
 ==============================
 
-Generally speaking, having a large swap pagefile (even much larger than your physical memory in case you've got less than 32 GB), with an SSD makes total wonders to how fast the system will be (not so on HDD, but with an SSD - yes). For those who are worried about NAND overwrites when it comes to SSD & the ultimate WRITES limit: if you've got a modern SSD with many TBW (300 - 600) then even with extensive writes every day in the form of a PAGEFILE, you are likely to not be able to "consume up the TBW" of the SSD sooner than in 15-30 years, realistically. 
+Generally speaking, having a large swap pagefile (even much larger than your physical memory in case you've got less than 32 GB), with an SSD makes total wonders to how fast the system will be (not so on HDD, but with an SSD - yes). For those who are worried about NAND overwrites when it comes to SSD & the ultimate WRITES limit: if you've got a modern SSD with many TBW (300 - 600) then even with extensive writes every day in the form of a LARGE PAGEFILE, you are likely to not be able to "consume up the TBW" of the SSD sooner than in 15-30 years, realistically. 
 
 And a SSD large swap file can do wonders even to an older computer with 8 GB of RAM running Windows 7. For running things like Firefox even with 30-50 tabs opened, an 8 GB RAM laptop with a 24 GB SSD-based pagefile will behave like a native 32 GB computer (in these cases).
 
