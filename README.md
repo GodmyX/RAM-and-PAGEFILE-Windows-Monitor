@@ -47,6 +47,6 @@ You can use the premade binaries in the folder "binaries". The .exe is standalon
 	
 	OR run manually in the command line this:
 
-		gcc -I"\include" resources.o -o "RAM Monitor.exe" -mwindows -lgdi32 -lcomctl32 -lole32 -loleaut32 -luuid -lpsapi -static-libgcc
+		gcc -I"\include" "RAM Monitor C v3.c" resources.o -o "RAM Monitor C.exe" -mwindows -lgdi32 -lcomctl32 -lole32 -loleaut32 -luuid -lpsapi -static-libgcc
 		
 7) enjoy the APP
