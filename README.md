@@ -46,6 +46,7 @@ You can use the premade binaries in the folder "binaries". The .exe is standalon
 5) run "02 compile the APP.bat"
 	
 	OR run manually in the command line this:
+
 		gcc -I"\include" resources.o -o "RAM Monitor.exe" -mwindows -lgdi32 -lcomctl32 -lole32 -loleaut32 -luuid -lpsapi -static-libgcc
 		
-6) enjoy the APP
+7) enjoy the APP
