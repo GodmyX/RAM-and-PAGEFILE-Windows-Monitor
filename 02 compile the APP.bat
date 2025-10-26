@@ -1,0 +1,1 @@
+gcc -I"\include" "RAM Monitor C v3.c" resources.o -o "RAM Monitor C.exe" -mwindows -lgdi32 -lcomctl32 -lole32 -loleaut32 -luuid -lpsapi -static-libgcc
