@@ -29,7 +29,7 @@ And a SSD large swap file can do wonders even to an older computer with 8 GB of 
 ==============================
 ==============================
 
-You can use the premade binaries in the folder "binaries". The .exe is standalone, it only needs the settings.ini file
+You can use the premade binaries in the folder "binaries". The .exe is standalone, it only needs the settings.ini file (if not present, it creates it itself - to store your preferences).
 
 
 === HOW TO COMPILE THE APP ===
