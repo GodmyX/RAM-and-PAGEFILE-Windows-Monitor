@@ -40,11 +40,12 @@ You can use the premade binaries in the folder "binaries". The .exe is standalon
 
 3) run "01 compile resources.bat" <- so you will get the icon
 	OR run manually in a command line this:
+
 		windres resources.rc -o resources.o
 
-4) run "02 compile the APP.bat"
+5) run "02 compile the APP.bat"
 	
 	OR run manually in the command line this:
 		gcc -I"\include" resources.o -o "RAM Monitor.exe" -mwindows -lgdi32 -lcomctl32 -lole32 -loleaut32 -luuid -lpsapi -static-libgcc
 		
-5) enjoy the APP
+6) enjoy the APP
