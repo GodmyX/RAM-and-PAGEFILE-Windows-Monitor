@@ -1,3 +1,5 @@
+PAGEFILE use & RAM use MONITOR
+===============================================
 Windows 7, Windows 10, Windows 11 are supported (may run on Vista too)
 ===============================================
 
