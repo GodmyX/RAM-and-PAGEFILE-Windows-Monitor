@@ -5,6 +5,9 @@ Windows 7, Windows 10, Windows 11 are supported (may run on Vista too)
 
 
 It loads really fast. It shows you both how much RAM you use, but also how much of the PAGEFILE you're using, thus giving you some idea whether your pagefile should or should not be increased.
+----------------------------
+
+The Windows Task Manager (and System Resources Monitor) give this information only for the Physical RAM, but it is difficult to deduce the PageFile use from the rest of the information Windows natively gives to the user. This Monitor shows it to you plain & simple.
 
 -----------------------------
 ====FILL THE RAM UP TEST====
